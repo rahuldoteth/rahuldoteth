@@ -1,9 +1,0 @@
-<html>
-<head>
-
-<title>Simple URL Redirect Web Page Coded in HTML5</title>
-
-<meta http-equiv = "refresh" content = "0; url = https://twitter.com/rahuldoteth" />   
-
-</head>
-</html>
